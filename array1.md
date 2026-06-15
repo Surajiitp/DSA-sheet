@@ -1,4 +1,4 @@
-# 169. Majority Element
+# 169. Majority Element c++
 
 ## Problem Link
 
