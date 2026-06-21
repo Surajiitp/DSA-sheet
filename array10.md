@@ -168,11 +168,6 @@ O(1)
 - Optimization from O(n³) to O(n²)
 
 ---
-
-## LeetCode Link
-
-https://leetcode.com/problems/3sum/
-
 ## Tags
 
 `Array` `Two Pointers` `Sorting`
